@@ -2,7 +2,7 @@
 
 This repository is an experiment environment to evaluate ([ReadAgent](https://read-agent.github.io/)) by Lee et al. (2024) as done in our paper:
 
-**Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models** (Laitenberger et al., 2025) - [Paper (TODO: add link)](arxiv.org) - [Repo-Overview](https://github.com/Lightnz/stronger-baselines-rag/)
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. **Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**  - [Paper](https://www.arxiv.org/abs/2506.03989) - [Repo-Overview](https://github.com/Lightnz/stronger-baselines-rag/)
 
 We have used the implementation provided in the notebook on the official [ReadAgent Github Page](https://github.com/read-agent/read-agent.github.io/blob/main/assets/read_agent_demo.ipynb). 
 
@@ -221,7 +221,7 @@ E.g., the json-file for QuALITY results looks like this:
 
 
 ## References
-Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models [Paper (TODO: add link)](www.arxiv.org) - [Github](https://github.com/Lightnz/stronger-baselines-rag/)
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models [Paper](https://www.arxiv.org/abs/2506.03989) - [Github](https://github.com/Lightnz/stronger-baselines-rag/)
 
 Kuang-Huei Lee, Xinyun Chen, Hiroki Furuta, John Canny, and Ian Fischer. 2024. A human-inspired reading agent with gist memory of very long contexts. In Proc. of ICML. - [Paper](https://arxiv.org/abs/2402.09727) - [Github](https://read-agent.github.io/)
 
@@ -231,3 +231,24 @@ Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Herma
 ciation for Computational Linguistics, 6:317–328. - [Paper](https://arxiv.org/abs/1712.07040) - [Github](https://github.com/google-deepmind/narrativeqa)
 
 Xinrong Zhang, Yingfa Chen, Shengding Hu, Zihang Xu, Junhao Chen, Moo Khai Hao, Xu Han, Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, and Maosong Sun. 2024. ∞bench: Extending long context evaluation beyond 100K tokens. In Proc. of ACL. - [Paper](https://arxiv.org/abs/2402.13718) - [Github](https://github.com/OpenBMB/InfiniteBench)
+
+
+## Citation
+
+Please cite our paper if you find it useful in your research.
+
+```
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models. ArXiv:2506.03989.
+```
+
+```
+@misc{laitenberger2025strongerbaselinesretrievalaugmentedgeneration,
+      title={Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models}, 
+      author={Alex Laitenberger and Christopher D. Manning and Nelson F. Liu},
+      year={2025},
+      eprint={2506.03989},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.03989}, 
+}
+```
