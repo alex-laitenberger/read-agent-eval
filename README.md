@@ -2,7 +2,7 @@
 
 This repository is an experiment environment to evaluate ([ReadAgent](https://read-agent.github.io/)) by Lee et al. (2024) as done in our paper:
 
-Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. **Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**  - [Paper](https://aclanthology.org/2025.emnlp-main.1656/) - [Repo-Overview](https://github.com/Lightnz/stronger-baselines-rag/)
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. **Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**  - [Paper](https://aclanthology.org/2025.emnlp-main.1656/) - [Repo-Overview](https://github.com/alex-laitenberger/stronger-baselines-rag/)
 
 We have used the implementation provided in the notebook on the official [ReadAgent Github Page](https://github.com/read-agent/read-agent.github.io/blob/main/assets/read_agent_demo.ipynb). 
 
