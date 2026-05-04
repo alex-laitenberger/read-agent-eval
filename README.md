@@ -221,7 +221,7 @@ E.g., the json-file for QuALITY results looks like this:
 
 
 ## References
-Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models [Paper](https://www.arxiv.org/abs/2506.03989) - [Github](https://github.com/Lightnz/stronger-baselines-rag/)
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models. In Proc. of EMNLP. [Paper](https://aclanthology.org/2025.emnlp-main.1656/) - [Github](https://github.com/Lightnz/stronger-baselines-rag/)
 
 Kuang-Huei Lee, Xinyun Chen, Hiroki Furuta, John Canny, and Ian Fischer. 2024. A human-inspired reading agent with gist memory of very long contexts. In Proc. of ICML. - [Paper](https://arxiv.org/abs/2402.09727) - [Github](https://read-agent.github.io/)
 
